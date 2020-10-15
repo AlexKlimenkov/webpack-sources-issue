@@ -1,0 +1,16 @@
+{
+  "name": "webpack-sources-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "webpack"
+  },
+  "devDependencies": {
+    "terser-webpack-plugin": "^5.0.0",
+    "webpack": "^5.1.1",
+    "webpack-cli": "^4.0.0-rc.1",
+    "wrapper-webpack-plugin": "^2.1.0"
+  }
+}
