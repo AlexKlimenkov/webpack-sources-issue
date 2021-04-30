@@ -1,1 +1,1 @@
-// some shim
+/* some shim */

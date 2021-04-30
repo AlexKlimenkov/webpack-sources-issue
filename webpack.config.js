@@ -29,7 +29,7 @@ module.exports = {
 						comparisons: false,
 					},
 					output: {
-						comments: false,
+						comments: true,
 					},
 				},
 			}),
